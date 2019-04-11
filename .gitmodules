@@ -1,0 +1,9 @@
+[submodule "aion_control"]
+	path = aion_control
+	url = https://github.com/aionrobotics/aion_control.git
+[submodule "aion_descriptions/aion_r1_description"]
+	path = aion_descriptions/aion_r1_description
+	url = https://github.com/aionrobotics/aion_r1_description.git
+[submodule "aion_simulator/aion_r1_gazebo"]
+	path = aion_simulator/aion_r1_gazebo
+	url = https://github.com/aionrobotics/aion_r1_gazebo.git
