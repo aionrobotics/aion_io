@@ -13,3 +13,6 @@
 [submodule "aion_simulator/aion_m6v2_gazebo"]
 	path = aion_simulator/aion_m6v2_gazebo
 	url = https://github.com/aionrobotics/aion_m6v2_gazebo
+[submodule "aion_descriptions/aion_atv_description"]
+	path = aion_descriptions/aion_atv_description
+	url = https://github.com/aionrobotics/aion_atv_description
